@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Akash
+- 👀 I’m interested in web Development
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on Web Development Projects
+- 📫 How to reach me akashhp202107@gmail.com
